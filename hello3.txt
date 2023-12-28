@@ -1,0 +1,3 @@
+python is high level language
+python is easy to maintain and learn
+python syntax is equally in english script.
