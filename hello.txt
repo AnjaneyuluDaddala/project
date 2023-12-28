@@ -1,7 +1,11 @@
 hello
 oye
 hii
+<<<<<<< HEAD
 bye
 
 this is hello txt is created in krishna branch
 now are merging the krishna branch and master branch..
+=======
+bye
+>>>>>>> b93251b007552120ddb351ebfc0abee69d054d46
